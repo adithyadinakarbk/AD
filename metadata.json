@@ -1,0 +1,6 @@
+{
+  "name": "CurriculaPro Academic Precision",
+  "description": "Institutional course specification authoring, CO-PO alignment matrix, Bloom's taxonomy verification, and accreditation compliance platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

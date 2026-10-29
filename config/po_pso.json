@@ -1,0 +1,195 @@
+{
+  "programOutcomes": [
+    {
+      "id": "PO1",
+      "code": "PO1",
+      "title": "Engineering Knowledge",
+      "statement": "Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.",
+      "category": "Core Knowledge"
+    },
+    {
+      "id": "PO2",
+      "code": "PO2",
+      "title": "Problem Analysis",
+      "statement": "Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+      "category": "Analytical Skills"
+    },
+    {
+      "id": "PO3",
+      "code": "PO3",
+      "title": "Design/Development of Solutions",
+      "statement": "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations.",
+      "category": "Design & Innovation"
+    },
+    {
+      "id": "PO4",
+      "code": "PO4",
+      "title": "Conduct Investigations of Complex Problems",
+      "statement": "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.",
+      "category": "Research & Experimentation"
+    },
+    {
+      "id": "PO5",
+      "code": "PO5",
+      "title": "Modern Tool Usage",
+      "statement": "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.",
+      "category": "Modern Engineering Tools"
+    },
+    {
+      "id": "PO6",
+      "code": "PO6",
+      "title": "The Engineer and Society",
+      "statement": "Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.",
+      "category": "Societal Context"
+    },
+    {
+      "id": "PO7",
+      "code": "PO7",
+      "title": "Environment and Sustainability",
+      "statement": "Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.",
+      "category": "Sustainability"
+    },
+    {
+      "id": "PO8",
+      "code": "PO8",
+      "title": "Ethics",
+      "statement": "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.",
+      "category": "Professional Ethics"
+    },
+    {
+      "id": "PO9",
+      "code": "PO9",
+      "title": "Individual and Team Work",
+      "statement": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.",
+      "category": "Team Dynamics"
+    },
+    {
+      "id": "PO10",
+      "code": "PO10",
+      "title": "Communication",
+      "statement": "Communicate effectively on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.",
+      "category": "Communication"
+    },
+    {
+      "id": "PO11",
+      "code": "PO11",
+      "title": "Project Management and Finance",
+      "statement": "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+      "category": "Management"
+    },
+    {
+      "id": "PO12",
+      "code": "PO12",
+      "title": "Life-long Learning",
+      "statement": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.",
+      "category": "Continuous Learning"
+    }
+  ],
+  "programSpecificOutcomes": [
+    {
+      "id": "PSO1",
+      "code": "PSO1",
+      "title": "Systems & Software Engineering",
+      "statement": "Architect, implement, test, and deploy resilient software and scalable enterprise infrastructure using modern distributed paradigms, robust design patterns, and rigorous security standards.",
+      "category": "Core Computing"
+    },
+    {
+      "id": "PSO2",
+      "code": "PSO2",
+      "title": "Intelligent Systems & Data Science",
+      "statement": "Design and validate cognitive pipelines, mathematical models, machine learning algorithms, and real-time data analytical solutions to solve high-complexity domain problems.",
+      "category": "Applied Intelligence"
+    },
+    {
+      "id": "PSO3",
+      "code": "PSO3",
+      "title": "Engineering Research & Professional Practice",
+      "statement": "Execute interdisciplinary applied research, adapt to emerging algorithmic frameworks, and deliver human-centered technological solutions adhering to global regulatory and ethical benchmarks.",
+      "category": "Innovation & Impact"
+    }
+  ],
+  "bloomsLevels": [
+    {
+      "level": "L1",
+      "name": "Remember",
+      "cognitiveDomain": "Knowledge Retrieval",
+      "description": "Retrieve relevant knowledge from long-term memory; recognize, list, describe, retrieve, name, identify facts and core concepts.",
+      "actionVerbs": ["Define", "List", "State", "Identify", "Recall", "Name", "Recognize", "Match"],
+      "typicalAssessments": ["Multiple Choice Questions", "Fill in blanks", "Direct definitions", "Term identification quizzes"],
+      "order": 1,
+      "badgeColor": "#64748B"
+    },
+    {
+      "level": "L2",
+      "name": "Understand",
+      "cognitiveDomain": "Comprehension & Translation",
+      "description": "Construct meaning from instructional messages; interpret, classify, summarize, infer, compare, explain ideas and concepts.",
+      "actionVerbs": ["Explain", "Describe", "Summarize", "Classify", "Compare", "Interpret", "Illustrate", "Distinguish"],
+      "typicalAssessments": ["Short answer explanations", "Conceptual diagrams", "Comparative essays", "Summaries"],
+      "order": 2,
+      "badgeColor": "#0284C7"
+    },
+    {
+      "level": "L3",
+      "name": "Apply",
+      "cognitiveDomain": "Practical Implementation",
+      "description": "Carry out or use a procedure in a given situation; execute or implement formulas, algorithms, or theories to solve concrete problems.",
+      "actionVerbs": ["Apply", "Execute", "Implement", "Solve", "Calculate", "Demonstrate", "Operate", "Utilize"],
+      "typicalAssessments": ["Numerical computation", "Code implementation", "Scenario problem solving", "Laboratory exercises"],
+      "order": 3,
+      "badgeColor": "#0F9D8A"
+    },
+    {
+      "level": "L4",
+      "name": "Analyze",
+      "cognitiveDomain": "Critical Decomposition",
+      "description": "Break material into constituent parts and determine how parts relate to one another and to an overall structure; differentiate, organize, attribute.",
+      "actionVerbs": ["Analyze", "Differentiate", "Deconstruct", "Examine", "Inspect", "Categorize", "Investigate", "Trace"],
+      "typicalAssessments": ["Code profiling & performance analysis", "Case studies", "Failure mode analysis", "Algorithm complexity comparison"],
+      "order": 4,
+      "badgeColor": "#D97706"
+    },
+    {
+      "level": "L5",
+      "name": "Evaluate",
+      "cognitiveDomain": "Judgement & Critique",
+      "description": "Make judgments based on criteria and standards; check, critique, assess the validity, efficiency, or feasibility of solutions.",
+      "actionVerbs": ["Evaluate", "Assess", "Critique", "Judge", "Validate", "Appraise", "Defend", "Verify"],
+      "typicalAssessments": ["Design reviews", "Peer code audits", "Security and efficiency trade-off evaluations", "Benchmarking reports"],
+      "order": 5,
+      "badgeColor": "#7C3AED"
+    },
+    {
+      "level": "L6",
+      "name": "Create",
+      "cognitiveDomain": "Original Synthesis",
+      "description": "Put elements together to form a coherent or functional whole; reorganize elements into a new pattern or structure through generating, planning, or producing.",
+      "actionVerbs": ["Design", "Construct", "Formulate", "Synthesize", "Develop", "Invent", "Compose", "Engineer"],
+      "typicalAssessments": ["Capstone architectural projects", "Full-stack system design", "Original algorithm development", "Comprehensive specification documents"],
+      "order": 6,
+      "badgeColor": "#1E3A5F"
+    }
+  ],
+  "correlationLevels": [
+    {
+      "value": 0,
+      "label": "None (–)",
+      "description": "No measurable direct correlation between this Course Outcome and Program Outcome."
+    },
+    {
+      "value": 1,
+      "label": "Slight (Low)",
+      "description": "Marginal correlation; addresses the outcome superficially or as a minor prerequisite (10-30% curriculum weight)."
+    },
+    {
+      "value": 2,
+      "label": "Moderate (Medium)",
+      "description": "Direct contribution; substantial focus in lectures, labs, and evaluation (30-60% curriculum weight)."
+    },
+    {
+      "value": 3,
+      "label": "Substantial (High)",
+      "description": "Primary driver; central learning objective with comprehensive assessment and major project focus (>60% curriculum weight)."
+    }
+  ]
+}
